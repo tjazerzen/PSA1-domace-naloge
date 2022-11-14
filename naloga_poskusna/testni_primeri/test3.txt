@@ -1,0 +1,7 @@
+4 2 3
+organizatorji
+1 2 3 4
+Maribor 1
+10 10 10 10
+Ljubljana 1
+10 10 10 10
